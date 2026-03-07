@@ -1,6 +1,6 @@
 
 作者全程研发与运营 包网平台系统开发与运营多年，提供 完整平台技术解决方案、技术合作或技术转让，支持定制开发与二次开发。系统经过多年实际商业环境运行验证放盘数百家，稳定性和完整度 开发文档齐全。
-技术合作https://t.me/beta66668888
+技术合作联系我
 演示地址
 
 Flutter H5 前台演示
@@ -25,7 +25,6 @@ https://github.com/mynameBeta/appAndroid/releases/download/flutterapp/app-releas
 
 iOS 原生包 / Flutter iOS 包
 联系获取：
-https://t.me/beta66668888
 
 H5 模板演示（50+ UI 模板）
 
