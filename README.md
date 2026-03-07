@@ -1,12 +1,12 @@
 Telegram：@beta66668888。 https://t.me/beta66668888 
 包网主程 成熟彩票包网系统整技术合作或技术转 定制二次开发，五端完整源码，系统已稳定商业运营8年以上600+放盘。
 演示地址 
-Flutter H5前台 http://149.28.131.96:8011/index.html 
-veu H5前台  http://149.28.131.96:8080/h5/web/ 
-veu H5 PC前台 http://149.28.131.96:8080/h5/pc/
-后台OA 地址   http://149.28.131.96:8066
-安卓原包 下载地址 :https://github.com/mynameBeta/appAndroid/releases/download/%E5%AE%89%E5%8D%93%E5%8E%9F%E5%8C%85%E6%B5%8B%E8%AF%95%E7%AB%99/dggRelease_12_100.apk
-Flutter安卓包包 下载地址: https://github.com/mynameBeta/appAndroid/releases/download/flutterapp/app-release.apk
+Flutter H5前台 http://149.28.131.96:8011/index.html ;
+veu H5前台  http://149.28.131.96:8080/h5/web/ ;
+veu H5 PC前台 http://149.28.131.96:8080/h5/pc/;
+后台OA 地址   http://149.28.131.96:8066;
+安卓原包 下载地址 :https://github.com/mynameBeta/appAndroid/releases/download/%E5%AE%89%E5%8D%93%E5%8E%9F%E5%8C%85%E6%B5%8B%E8%AF%95%E7%AB%99/dggRelease_12_100.apk;
+Flutter安卓包包 下载地址: https://github.com/mynameBeta/appAndroid/releases/download/flutterapp/app-release.apk;
 
 其他H5定制站点 50+模板 http://149.28.131.96:8080/h5/c127web/   ,  http://149.28.131.96:8080/h5/c121web/  , http://149.28.131.96:8080/h5/c111web/ , http://149.28.131.96:8080/h5/c099web/ , http://149.28.131.96:8080/h5/c075web/ , http://149.28.131.96:8080/h5/c073web/ , http://149.28.131.96:8080/h5/bbcweb/ , 
 
