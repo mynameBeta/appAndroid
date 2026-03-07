@@ -7,6 +7,8 @@ veu H5 PC前台 http://149.28.131.96:8080/h5/pc/;<br>
 后台OA 地址   http://149.28.131.96:8066;<br>
 安卓原包 下载地址 :https://github.com/mynameBeta/appAndroid/releases/download/%E5%AE%89%E5%8D%93%E5%8E%9F%E5%8C%85%E6%B5%8B%E8%AF%95%E7%AB%99/dggRelease_12_100.apk;<br>
 Flutter安卓包包 下载地址: https://github.com/mynameBeta/appAndroid/releases/download/flutterapp/app-release.apk;<br>
+IOS 原生包 联系我  https://t.me/beta66668888 <br>
+Flutter 原生包 联系我  https://t.me/beta66668888 <br>
 <br>
 其他H5定制站点 50+模板 http://149.28.131.96:8080/h5/c127web/   <br>
 http://149.28.131.96:8080/h5/c121web/  <br>, 
